@@ -15,4 +15,4 @@ d.  Support Vector Machine - Soft Margin case  : **Still working on it**
 
 e.  Kernel Ridge Regression:  **Still working on it**
 
-f. Conditional GAN for image-to-image translation: **Note that cGAN accepts PC scores as input**
+f. Conditional GAN for image-to-image translation: 
