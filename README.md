@@ -9,6 +9,8 @@ b.  Linear Discriminant Analysis
 
 c.  Softmax Classifier
 
-d.  Support Vector Machine - Soft Margin case
+d.  Support Vector Machine - Soft Margin case  : **Still working on it**
 
-e.  Kernel Ridge Regression
+e.  Kernel Ridge Regression:  **Still working on it**
+
+f. Conditional GAN for image-to-image translation
