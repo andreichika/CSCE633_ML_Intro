@@ -5,14 +5,14 @@ I include my codes to all algorithms covered:
 
 0.  Reading MNIST data: **This has to be run at the beginning**
 
-a.  Principal Component Analysis
+1.  Principal Component Analysis
 
-b.  Linear Discriminant Analysis
+2.  Linear Discriminant Analysis
 
-c.  Softmax Classifier
+3.  Softmax Classifier
 
-d.  Support Vector Machine - Soft Margin case  : **Still working on it**
+4.  Support Vector Machine - Soft Margin case  : **Still working on it**
 
-e.  Kernel Ridge Regression:  **Still working on it**
+5.  Kernel Ridge Regression:  **Still working on it**
 
-f. Conditional GAN for image-to-image translation: 
+6. Conditional GAN for image-to-image translation: 
